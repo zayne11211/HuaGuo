@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "花果·回声亭",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "回声亭",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "花果·回声亭",
+  "description": "有关——抗香村的故事"
+}
